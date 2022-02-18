@@ -1,1 +1,1 @@
-# edge_detection_filters
+### Edge Detection Filters
